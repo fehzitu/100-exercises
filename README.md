@@ -72,3 +72,6 @@ Consistency beats intensity.
 
 Solving 100 problems won't just improve my coding —  
 it will reshape the way I think.
+
+## 📊 Status:
+``Discontinued day 26 march 2026``
